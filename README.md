@@ -11,7 +11,6 @@
 
 :zap: {.Net, Spring, React, Qt}
 
-![Matheus GitHub stats](https://github-readme-stats.vercel.app/api?username=mtlmacedo&show_icons=true&theme=calm) 
 
 ![](https://komarev.com/ghpvc/?username=mtlmacedo&color=006bed)
 
