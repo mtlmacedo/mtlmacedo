@@ -9,7 +9,7 @@
 
 :rocket: FullStack Developer 
 
-:zap: {.Net, Spring, React, Qt}
+:zap: {.Net, Spring, React, Qt, Go}
 
 
 ![](https://komarev.com/ghpvc/?username=mtlmacedo&color=006bed)
