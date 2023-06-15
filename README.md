@@ -1,37 +1,25 @@
-### Hi there 👋
+# Hi there 👋
+
+:information_source: My name is Matheus. I am a brazilian software engineer in love for all kinds of tech.
+>Wanna be 10x dev
+
+:pushpin: Salvador, Bahia - Brasil 🇧🇷
+
+:heart: In my spare time, I enjoy reading, walking and the beach 🏖️
+
 
 
 [![Linkedin Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mtlmacedo/) 
-[![Gmail Badge](https://img.shields.io/badge/-mtlmacedo@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mtlmacedo/@gmail.com)](mailto:mtlmacedo@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-mtlmacedo@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mtlmacedo/@gmail.com)](mailto:mtlmacedo@gmail.com) 
 
+[![Blog](https://flat.badgen.net/badge/blog/mtlmacedo.com/blue/?icon=terminal)](https://mtlmacedo.com)
 
-:coffee: Studying Rust, C++, Vulkan, React and Flask.
+:tada: Take a look at my new blog, I'm aiming to post a lot of Go stuff in there 
 
-:rocket: FullStack Developer 
+:rocket: Software Engineer
 
-:zap: {.Net, Spring, React, Qt, Go}
+:coffee: Always Studying GO, C++, Vulkan, .
 
+:zap: {Linux, .Net, Spring, Angular,React, Qt, Go}
 
-![](https://komarev.com/ghpvc/?username=mtlmacedo&color=006bed)
-
-
-
-
-
-
-
-
-<!--
-**mtlmacedo/mtlmacedo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Alt Text](https://github.com/jmhobbs/party-gopher/blob/master/dancing-gopher.gif)](https://mtlmacedo.com)
