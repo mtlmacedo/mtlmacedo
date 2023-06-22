@@ -1,12 +1,9 @@
-# Hi there 👋
+# Hello, World !
 
-:information_source: My name is Matheus. I am a brazilian software engineer in love for all kinds of tech.
+:information_source: My name is Matheus. I am a Brazilian software engineer in love with all kinds of tech.
 >Wanna be 10x dev
 
 :pushpin: Salvador, Bahia - Brasil 🇧🇷
-
-:heart: In my spare time, I enjoy reading, walking and the beach 🏖️
-
 
 
 [![Linkedin Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mtlmacedo/) 
@@ -18,7 +15,7 @@
 
 :rocket: Software Engineer
 
-:coffee: Always Studying GO, C++, Vulkan, .
+:coffee: Always Studying GO, C++, Vulkan.
 
 :zap: {Linux, .Net, Spring, Angular,React, Qt, Go}
 
