@@ -11,11 +11,9 @@
 
 [![Blog](https://flat.badgen.net/badge/blog/mtlmacedo.com/blue/?icon=terminal)](https://mtlmacedo.com)
 
-:tada: Take a look at my new blog, I'm aiming to post a lot of Go stuff in there 
-
 :rocket: Software Engineer
 
-:coffee: Always Studying GO, C++, Vulkan.
+:coffee: Always Studying.
 
 :zap: {Linux, .Net, Spring, Angular,React, Qt, Go}
 
