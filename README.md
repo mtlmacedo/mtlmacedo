@@ -9,7 +9,5 @@
 
 :rocket: Software Engineer
 
-:coffee: Always Studying.
-
 :zap: {Linux, .Net, Spring, Angular,React, Qt, Go}
 
